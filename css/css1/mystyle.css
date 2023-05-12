@@ -1,0 +1,31 @@
+.st-font {
+    font-family: 'Satisfy', cursive;
+    color: brown;
+}
+
+.h1 {
+    color: brown;
+}
+
+.h2 {
+    color: aquamarine;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: red;
+}
+
+.top-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.top {
+    position: absolute;
+    top: 8px;
+    left: 500px;
+}
